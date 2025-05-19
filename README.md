@@ -1,1 +1,1 @@
-# SSports-Analytics-using-SQL.
+# Sports-Analytics-using-SQL.
